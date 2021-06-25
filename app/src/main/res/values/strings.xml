@@ -1,0 +1,88 @@
+<resources xmlns:xliff="urn:oasis:names:tc:xliff:document:1.2">
+    <string name="app_name">qwer0511</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+    <!-- Options Menu -->
+    <string name="secure_connect">Connect a device - Secure</string>
+    <string name="insecure_connect">Connect a device - Insecure</string>
+    <string name="discoverable">Make discoverable</string>
+    <string name="sample_show_log">Show Log</string>
+    <string name="sample_hide_log">Hide Log</string>
+
+    <string name="not_connected">You are not connected to a device</string>
+
+    <string name="button4">FM1</string>
+    <string name="button5">FM2</string>
+    <string name="button6">FM3</string>
+    <string name="button7">AM1</string>
+    <string name="button8">AM2</string>
+    <string name="button9">PRESET1</string>
+    <string name="button10">PRESET2</string>
+    <string name="button11">PRESET3</string>
+    <string name="button12">PRESET4</string>
+    <string name="button46">PRESET5</string>
+    <string name="button47">PRESET6</string>
+    <string name="button48">TUNE DOWN</string>
+    <string name="button49">TUNE UP</string>
+    <string name="button50">SEEK DOWN</string>
+    <string name="button51">SEEK UP</string>
+    <string name="button52">AUTO STORE</string>
+    <string name="button53">PRESET SCAN</string>
+    <string name="button54">FUNC RELEASE</string>
+
+
+    <string name="button">STOP</string>
+    <string name="button2">PLAY</string>
+    <string name="button3">PAUSE</string>
+    <string name="button13">PREV</string>
+    <string name="button14">NEXT</string>
+    <string name="button15">PREV FOLDER</string>
+    <string name="button16">NEXT FOLDER</string>
+    <string name="button17">OFF</string>
+    <string name="button18">INTRO</string>
+    <string name="button42">RANDOM</string>
+    <string name="button43">RPT1</string>
+    <string name="button44">RPTD</string>
+    <string name="button45">RPTA</string>
+
+
+    <string name="button19">STOP</string>
+    <string name="button20">PLAY</string>
+    <string name="button21">PAUSE</string>
+    <string name="button22">PREV</string>
+    <string name="button23">NEXT</string>
+    <string name="button24">PREV FOLDER</string>
+    <string name="button25">NEXT FOLDER</string>
+    <string name="button26">OFF</string>
+    <string name="button27">INTRO</string>
+    <string name="button38">RANDOM</string>
+    <string name="button39">RPT1</string>
+    <string name="button40">RPTD</string>
+    <string name="button41">RPTA</string>
+
+
+    <string name="button28">POWER</string>
+    <string name="button29">TUNER</string>
+    <string name="button30">CDP</string>
+    <string name="button35">USB</string>
+    <string name="button36">AUX</string>
+    <string name="button37">BT</string>
+    <string name="button32">VOL UP</string>
+    <string name="button33">VOL DN</string>
+    <string name="button34">MUTE</string>
+    <string name="button31">CD EJECT</string>
+
+    <string name="title_connected_to">connected to <xliff:g id="device_name">%1$s</xliff:g></string>
+    <string name="title_connecting">connecting...</string>
+    <string name="title_not_connected">not connected</string>
+    <string name="bt_not_enabled_leaving">Bluetooth was not enabled. Leaving Bluetooth Chat.</string>
+
+    <string name="title_paired_devices">Paired Devices</string>
+    <string name="title_other_devices">Other Available Devices</string>
+    <string name="button_scan">Scan for devices</string>
+    <string name="scanning">scanning for devices...</string>
+    <string name="select_device">select a device to connect</string>
+    <string name="none_paired">No devices have been paired</string>
+    <string name="none_found">No devices found</string>
+</resources>
